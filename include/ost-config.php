@@ -44,10 +44,10 @@ define('DBTYPE','mysql');
 define('DBHOST','%CONFIG-DBHOST');
 define('DBNAME','osticket');
 define('DBUSER','student');
-define('DBPASS','Uu6G*&R%nqk7&qJ&ECw5w*yjKwBoq7XYardO32tjhf6oEtfY!dX7VP8koIK#DxRn!sTkV^yzx72k%pmcpnbL$0eMBH#*gW6s7$);
+define('DBPASS','Uu6G*&R%nqk7&qJ&ECw5w*yjKwBoq7XYardO32tjhf6oEtfY!dX7VP8koIK#DxRn!sTkV^yzx72k%pmcpnbL$0eMBH#*gW6s7$');
 
 # Table prefix
-define('TABLE_PREFIX',');
+define('TABLE_PREFIX','ost_');
 
 #
 # SSL Options
