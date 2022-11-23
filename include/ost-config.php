@@ -47,7 +47,7 @@ define('DBUSER','student');
 define('DBPASS','Uu6G*&R%nqk7&qJ&ECw5w*yjKwBoq7XYardO32tjhf6oEtfY!dX7VP8koIK#DxRn!sTkV^yzx72k%pmcpnbL$0eMBH#*gW6s7$);
 
 # Table prefix
-define('TABLE_PREFIX','%CONFIG-PREFIX');
+define('TABLE_PREFIX',');
 
 #
 # SSL Options
