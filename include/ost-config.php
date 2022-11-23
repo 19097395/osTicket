@@ -39,6 +39,7 @@ define('ADMIN_EMAIL','%ADMIN-EMAIL');
 # ====================================================
 # Mysql Login info
 #
+# I am so happy this i a public repository. Thankfully this password will not work anymore!
 define('DBTYPE','mysql');
 define('DBHOST','%CONFIG-DBHOST');
 define('DBNAME','osticket');
